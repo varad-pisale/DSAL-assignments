@@ -1,6 +1,5 @@
 // Write a program to check whether a string is a palindrome using stack operations.
 #include <bits/stdc++.h>
-#include "ll.h"
 using namespace std;
 
 int main()
